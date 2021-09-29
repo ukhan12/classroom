@@ -8,7 +8,7 @@ const students = [
   'Zohaib',
   'Leo',
   'Shevaughn',
-  'Myles',
+  'Myles Matthews',
   'Jason',
   'Khalia',
   'Mark',
