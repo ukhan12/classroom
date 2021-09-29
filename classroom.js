@@ -10,7 +10,7 @@ const students = [
   'Shevaughn',
   'Myles',
   'Jason',
-  'Khalia',
+  'Khalia Parris aka lia',
   'Mark',
   'Uzma',
   'Jahsanni',
