@@ -47,6 +47,11 @@ class Classroom {
   resetStudents() {
     this.students = [...students];
   }
+  
+  // reset the array to an empty one
+  reset() {
+    this.students = [];
+  }
 }
 
 module.exports = new Classroom();
