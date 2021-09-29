@@ -47,6 +47,10 @@ class Classroom {
   resetStudents() {
     this.students = [...students];
   }
+  
+  reset() {
+    this.students = [];
+  }
 }
 
 module.exports = new Classroom();
