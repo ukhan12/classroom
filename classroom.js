@@ -5,7 +5,7 @@ const students = [
   'Noel',
   'Liam',
   'Jared',
-  'Zohaib',
+  'Zo Manzoor' ,
   'Leo',
   'Shevaughn',
   'Myles',
