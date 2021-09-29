@@ -17,6 +17,10 @@ const students = [
   'Jan',
 ];
 
+/**
+ * Classroom class
+ * 
+ */
 class Classroom {
   constructor() {
     this.resetStudents();
