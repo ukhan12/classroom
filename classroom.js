@@ -4,11 +4,9 @@ const students = [
   'Elijah',
   'Noel',
   'Liam',
-
   'Jared',
+  'Leo(Fullname: leonardo cedillo)',
   'Zo Manzoor' ,
-
-  'Leo',
   'Shevaughn',
   'Jason aka Andres',
   'Myles Matthews',
