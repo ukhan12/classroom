@@ -5,16 +5,16 @@ const students = [
   'Noel',
   'Liam',
   'Jared',
-  'Zohaib',
-  'Leo',
+  'Leo(Fullname: leonardo cedillo)',
+  'Zo Manzoor' ,
   'Shevaughn',
-  'Myles',
-  'Jason',
-  'Khalia',
   'Mark Rodriguez',
+  'Khalia Parris aka lia',
+  'Jason aka Andres',
+  'Myles Matthews',
   'Uzma',
   'Jahsanni',
-  'Jan',
+  'Jan Jan',
 ];
 
 /**
