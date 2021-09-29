@@ -8,6 +8,7 @@ const students = [
   'Leo(Fullname: leonardo cedillo)',
   'Zo Manzoor' ,
   'Shevaughn',
+  'Mark Rodriguez',
   'Khalia Parris aka lia',
   'Jason aka Andres',
   'Myles Matthews',
