@@ -12,7 +12,7 @@ const students = [
   'Jason aka Andres',
   'Myles Matthews',
   'Mark',
-  'Uzma',
+  'Uzma Khan',
   'Jahsanni',
   'Jan Jan',
 ];
