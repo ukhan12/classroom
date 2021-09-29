@@ -1,6 +1,6 @@
 const students = [
-  'Charles',
-  'Annecie',
+  'Annecie aka Cici',
+  'Charles'(charliecharles),
   'Elijah',
   'Noel',
   'Liam',
@@ -12,7 +12,8 @@ const students = [
   'Khalia Parris aka lia',
   'Jason aka Andres',
   'Myles Matthews',
-  'Uzma',
+  'Mark',
+  'Uzma Khan',
   'Jahsanni',
   'Jan Jan',
 ];
