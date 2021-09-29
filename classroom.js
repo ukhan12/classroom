@@ -11,7 +11,7 @@ const students = [
   'Myles',
   'Jason',
   'Khalia',
-  'Mark',
+  'Mark Rodriguez',
   'Uzma',
   'Jahsanni',
   'Jan',
