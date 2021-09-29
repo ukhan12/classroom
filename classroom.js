@@ -4,7 +4,7 @@ const students = [
   'Elijah',
   'Noel',
   'Liam',
-  'Jared',
+  'jvredmoore',
   'Leo(Fullname: leonardo cedillo)',
   'Zo Manzoor' ,
   'Shevaughn',
@@ -13,8 +13,8 @@ const students = [
   'Jason aka Andres',
   'Myles Matthews',
   'Mark',
+  'Jahsanni Williams',
   'Uzma Khan',
-  'Jahsanni',
   'Jan Jan',
 ];
 
