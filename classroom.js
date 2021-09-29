@@ -14,7 +14,7 @@ const students = [
   'Mark',
   'Uzma',
   'Jahsanni',
-  'Jan',
+  'Jan Jan',
 ];
 
 /**
