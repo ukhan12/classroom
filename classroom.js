@@ -1,6 +1,6 @@
 const students = [
+  'Annecie aka Cici',
   'Charles'(charliecharles),
-  'Annecie',
   'Elijah',
   'Noel',
   'Liam',
